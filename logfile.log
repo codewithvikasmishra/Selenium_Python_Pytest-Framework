@@ -1,0 +1,59 @@
+2023-12-23 20:53:41,440 :INFO : test_e2e : getting all the card titles
+2023-12-23 20:53:41,476 :INFO : test_e2e : iphone X
+2023-12-23 20:53:41,516 :INFO : test_e2e : iphone X
+2023-12-23 20:53:41,554 :INFO : test_e2e : iphone X
+2023-12-23 20:53:41,584 :INFO : test_e2e : iphone X
+2023-12-23 20:53:41,636 :INFO : test_e2e : Entering country name as ind
+2023-12-23 20:53:46,972 :INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-23 21:02:07,259 :INFO : test_formSubmission : first name is Vikas
+2023-12-23 21:02:07,328 :INFO : test_formSubmission : email is Vikas@gmail.com
+2023-12-23 21:02:07,414 :INFO : test_formSubmission : gender is Male
+2023-12-23 21:02:07,640 :INFO : test_formSubmission : first name is Kriti
+2023-12-23 21:02:07,640 :INFO : test_formSubmission : first name is Kriti
+2023-12-23 21:02:07,701 :INFO : test_formSubmission : email is Kriti@gmail.com
+2023-12-23 21:02:07,701 :INFO : test_formSubmission : email is Kriti@gmail.com
+2023-12-23 21:02:07,779 :INFO : test_formSubmission : gender is Female
+2023-12-23 21:02:07,779 :INFO : test_formSubmission : gender is Female
+2023-12-23 21:02:10,069 :INFO : test_e2e : getting all the card titles
+2023-12-23 21:02:10,180 :INFO : test_e2e : iphone X
+2023-12-23 21:02:10,209 :INFO : test_e2e : iphone X
+2023-12-23 21:02:10,228 :INFO : test_e2e : iphone X
+2023-12-23 21:02:10,246 :INFO : test_e2e : iphone X
+2023-12-23 21:02:10,297 :INFO : test_e2e : Entering country name as ind
+2023-12-23 21:02:15,631 :INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-23 21:05:10,263 :INFO : test_formSubmission : first name is Vikas
+2023-12-23 21:05:10,320 :INFO : test_formSubmission : email is Vikas@gmail.com
+2023-12-23 21:05:10,411 :INFO : test_formSubmission : gender is Male
+2023-12-23 21:05:10,637 :INFO : test_formSubmission : first name is Kriti
+2023-12-23 21:05:10,637 :INFO : test_formSubmission : first name is Kriti
+2023-12-23 21:05:10,690 :INFO : test_formSubmission : email is Kriti@gmail.com
+2023-12-23 21:05:10,690 :INFO : test_formSubmission : email is Kriti@gmail.com
+2023-12-23 21:05:10,765 :INFO : test_formSubmission : gender is Female
+2023-12-23 21:05:10,765 :INFO : test_formSubmission : gender is Female
+2023-12-23 21:05:13,072 :INFO : test_e2e : getting all the card titles
+2023-12-23 21:05:13,106 :INFO : test_e2e : iphone X
+2023-12-23 21:05:13,137 :INFO : test_e2e : iphone X
+2023-12-23 21:05:13,160 :INFO : test_e2e : iphone X
+2023-12-23 21:05:13,185 :INFO : test_e2e : iphone X
+2023-12-23 21:05:13,227 :INFO : test_e2e : Entering country name as ind
+2023-12-23 21:05:18,510 :INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-23 22:25:37,156 :INFO : test_formSubmission : first name is Vikas
+2023-12-23 22:25:37,213 :INFO : test_formSubmission : email is Vikas@gmail.com
+2023-12-23 22:25:37,319 :INFO : test_formSubmission : gender is Male
+2023-12-23 22:25:37,602 :INFO : test_formSubmission : first name is Kriti
+2023-12-23 22:25:37,602 :INFO : test_formSubmission : first name is Kriti
+2023-12-23 22:25:37,671 :INFO : test_formSubmission : email is Kriti@gmail.com
+2023-12-23 22:25:37,671 :INFO : test_formSubmission : email is Kriti@gmail.com
+2023-12-23 22:25:37,796 :INFO : test_formSubmission : gender is Female
+2023-12-23 22:25:37,796 :INFO : test_formSubmission : gender is Female
+2023-12-23 22:25:40,321 :INFO : test_e2e : getting all the card titles
+2023-12-23 22:25:40,355 :INFO : test_e2e : iphone X
+2023-12-23 22:25:40,392 :INFO : test_e2e : iphone X
+2023-12-23 22:25:40,418 :INFO : test_e2e : iphone X
+2023-12-23 22:25:40,442 :INFO : test_e2e : iphone X
+2023-12-23 22:25:40,488 :INFO : test_e2e : Entering country name as ind
+2023-12-23 22:25:45,763 :INFO : test_e2e : text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
